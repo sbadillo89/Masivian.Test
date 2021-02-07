@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masivian.Test", "Masivian.Test\Masivian.Test.csproj", "{E285E676-60ED-4FF7-ABB8-F34C48BD5C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masivian.Test.Data", "Masivian.Test.Data\Masivian.Test.Data.csproj", "{454F06EB-E97F-4582-AA85-F3C20824C33B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E285E676-60ED-4FF7-ABB8-F34C48BD5C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E285E676-60ED-4FF7-ABB8-F34C48BD5C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E285E676-60ED-4FF7-ABB8-F34C48BD5C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E285E676-60ED-4FF7-ABB8-F34C48BD5C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454F06EB-E97F-4582-AA85-F3C20824C33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454F06EB-E97F-4582-AA85-F3C20824C33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454F06EB-E97F-4582-AA85-F3C20824C33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454F06EB-E97F-4582-AA85-F3C20824C33B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E33D47A8-5666-470C-81F3-25CFC00FCF67}
+	EndGlobalSection
+EndGlobal

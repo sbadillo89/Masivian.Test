@@ -1,0 +1,14 @@
+C:\Users\SBadillo\source\repos\Masivian.Test\Masivian.Test.Data\bin\Debug\netcoreapp3.1\Masivian.Test.Data.deps.json
+C:\Users\SBadillo\source\repos\Masivian.Test\Masivian.Test.Data\bin\Debug\netcoreapp3.1\Masivian.Test.Data.dll
+C:\Users\SBadillo\source\repos\Masivian.Test\Masivian.Test.Data\obj\Debug\netcoreapp3.1\Masivian.Test.Data.csprojAssemblyReference.cache
+C:\Users\SBadillo\source\repos\Masivian.Test\Masivian.Test.Data\obj\Debug\netcoreapp3.1\Masivian.Test.Data.AssemblyInfoInputs.cache
+C:\Users\SBadillo\source\repos\Masivian.Test\Masivian.Test.Data\obj\Debug\netcoreapp3.1\Masivian.Test.Data.AssemblyInfo.cs
+C:\Users\ser_b\source\repos\Masivian.Test\Masivian.Test.Data\bin\Debug\netcoreapp3.1\Masivian.Test.Data.deps.json
+C:\Users\ser_b\source\repos\Masivian.Test\Masivian.Test.Data\bin\Debug\netcoreapp3.1\Masivian.Test.Data.dll
+C:\Users\ser_b\source\repos\Masivian.Test\Masivian.Test.Data\bin\Debug\netcoreapp3.1\Masivian.Test.Data.pdb
+C:\Users\ser_b\source\repos\Masivian.Test\Masivian.Test.Data\obj\Debug\netcoreapp3.1\Masivian.Test.Data.AssemblyInfoInputs.cache
+C:\Users\ser_b\source\repos\Masivian.Test\Masivian.Test.Data\obj\Debug\netcoreapp3.1\Masivian.Test.Data.AssemblyInfo.cs
+C:\Users\ser_b\source\repos\Masivian.Test\Masivian.Test.Data\obj\Debug\netcoreapp3.1\Masivian.Test.Data.csproj.CoreCompileInputs.cache
+C:\Users\ser_b\source\repos\Masivian.Test\Masivian.Test.Data\obj\Debug\netcoreapp3.1\Masivian.Test.Data.dll
+C:\Users\ser_b\source\repos\Masivian.Test\Masivian.Test.Data\obj\Debug\netcoreapp3.1\Masivian.Test.Data.pdb
+C:\Users\ser_b\source\repos\Masivian.Test\Masivian.Test.Data\obj\Debug\netcoreapp3.1\Masivian.Test.Data.csprojAssemblyReference.cache
